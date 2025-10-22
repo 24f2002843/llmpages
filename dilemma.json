@@ -1,0 +1,11 @@
+{
+    "people": 5,
+    "case_1": {
+        "swerve": true,
+        "reason": "To minimize harm, the vehicle should swerve to hit one individual instead of two."
+    },
+    "case_2": {
+        "swerve": false,
+        "reason": "If two individuals are criminals and the one is a child, the decision is complex; prioritizing the safety of the child may mean swerving to hit one person instead of two." 
+    }
+}
